@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BluetoothPrinting</string>
+
+    <string name="button_title">Print Barcode</string>
+    <string name="label_title">Enter Barcode Value</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_bluetooth">Enable your Bluetooth adapter, please</string>
+    <string name="paired_devices">Paired Devices: </string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_barcode">Enter barcode to print</string>
+
+</resources>
