@@ -20,7 +20,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-
 public class MainActivity extends AppCompatActivity {
 
     private BluetoothAdapter mBluetoothAdapter;
@@ -34,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
     }
 
+    //Print button's onClick event
     public void printBarcode(View v) {
 
         final EditText barcodeTextEdit = (EditText)findViewById(R.id.editText);
